@@ -1,2 +1,11 @@
-# GPU_With_CUDA
-Programação para GPUs com CUDA (UTFPR)
+# Universidade Federal do Paraná
+### Processamentos Paralelos Utilizando GPU's com CUDA
+
+### Descrição
+    In progress ...
+
+### Ferramentas
+    CUDA Tool Kit.
+    
+### Compilação
+    In progress ...
