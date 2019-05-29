@@ -1,4 +1,4 @@
-# Universidade Federal do Paraná
+# Universidade Tecnológica Federal do Paraná
 ### Processamentos Paralelos Utilizando GPU's com CUDA
 
 ### Descrição
